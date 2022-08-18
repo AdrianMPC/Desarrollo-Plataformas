@@ -1,0 +1,19 @@
+body
+{
+    background: mediumseagreen;
+}
+h1
+{
+    font-size: 20;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.class1
+{
+    width: 200px;
+    background: green;
+    text-align: center;
+}
+
+/*body = header, background=propiedad,
+ white es valor, todo es una propiedad */
